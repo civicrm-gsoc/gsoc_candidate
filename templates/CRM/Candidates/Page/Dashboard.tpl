@@ -11,4 +11,5 @@
 <li>Vishal Agarwal</li>
 <li>Anudit Verma</li>
 <li>Tahir Ramzan</li>
+<li><a href="https://github.com/siddharthg">Siddharth Gupta</a></li>
 </ul>
