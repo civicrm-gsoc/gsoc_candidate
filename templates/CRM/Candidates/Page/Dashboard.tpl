@@ -13,4 +13,5 @@
 <li>Tahir Ramzan</li>
 <li><a href="https://github.com/siddharthg">Siddharth Gupta</a></li>
 <li>Niko Bochan</li>
+<li>Ashish Mishra</li>
 </ul>
