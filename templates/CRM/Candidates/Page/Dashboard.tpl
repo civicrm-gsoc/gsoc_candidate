@@ -14,4 +14,5 @@
 <li><a href="https://github.com/siddharthg">Siddharth Gupta</a></li>
 <li>Niko Bochan</li>
 <li>Ashish Mishra</li>
+<li title="CiviCRM Android App project proposer">I. Jagatheesan Pillai</li>
 </ul>
